@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Notes (IBM AI Engineering – Module 1)
+# 🧠 Machine Learning Notes (Module 1)
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Framework: Scikit-learn](https://img.shields.io/badge/Framework-Scikit--learn-orange.svg)](https://scikit-learn.org/)
