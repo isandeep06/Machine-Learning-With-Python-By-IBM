@@ -127,7 +127,7 @@ Each module includes **summarized PDF notes** containing key formulas, code snip
 ## 🏁 Certificate
 
 🎓 **IBM Machine Learning with Python (Coursera)**  
-Completed successfully as part of the **IBM AI Engineering Professional Certificate**.
+Completed successfully as part of the **IBM Data Science Professional Certificate**.
 
 [🔗 View Course](https://www.coursera.org/learn/machine-learning-with-python)
 
