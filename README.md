@@ -137,7 +137,7 @@ Completed successfully as part of the **IBM Data Science Professional Certificat
 
 **Sandeep Maurya**
 
-📧 [isandeeep06.com](mailto:isandeeep06.com)  
+📧 [isandeeep06@gmail.com](mailto:isandeeep06@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sandeepmaurya-datascientist)
 
  🧩*Aspiring Data Scientist & ML Engineer*
